@@ -1,0 +1,10 @@
+{
+	"name": "io.yshep.testcipackage",
+	"displayName": "TestPackage",
+	"author": {
+		"name": "YammyShep",
+		"url": "https://github.com/yammyshep"
+	},
+	"version": "0.0.0",
+	"unity": "2018.3"
+}
