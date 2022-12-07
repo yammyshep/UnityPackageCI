@@ -12,7 +12,7 @@ namespace TestPackage.Tests
         [Test]
         public void TestTestsSimplePasses()
         {
-            // Use the Assert class to test conditions
+            Assert.Fail();
         }
 
         // A UnityTest behaves like a coroutine in Play Mode. In Edit Mode you can use
