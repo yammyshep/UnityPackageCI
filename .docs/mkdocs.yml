@@ -8,4 +8,4 @@ plugins:
   - doxygen:
       packages:
         - doxygen:
-            url : .
+            url : .docs
