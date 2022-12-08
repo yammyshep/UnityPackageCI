@@ -21,7 +21,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           #CUSTOM_DOMAIN: optionaldomain.com
           CONFIG_FILE: .docs/mkdocs.yml
-          EXTRA_PACKAGES:
-            - doxygen
-            - git-lfs
+          EXTRA_PACKAGES: doxygen git-lfs
           REQUIREMENTS: .docs/requirements.txt
