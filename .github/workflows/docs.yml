@@ -1,4 +1,4 @@
-name: Build and Publish Documentation
+name: Build Documentation
 
 on:
   push:
