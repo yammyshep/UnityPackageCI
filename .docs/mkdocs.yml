@@ -1,8 +1,8 @@
-site_name: My Docs
+site_name: UnityPackageCI
 
 nav:
-  - Home: "docs/index.md"
-  - API: 'api/index.html'
+  - Home: index.md
+  - API: 'doxygen/index.html'
 
 plugins:
   - doxygen:
